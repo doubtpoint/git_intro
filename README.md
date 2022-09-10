@@ -3,3 +3,4 @@ Pavel test GIT
 * Чтобы одной командой добавить все изменённые файлы и сделать коммит, выполните `git commit -am "commit message"`
 
 - [Как вернуться к прошлой версии](./reset_help.md)- [Ветвление](./branch_help.md)
+- [Слияние веток](./merge_help.md)
